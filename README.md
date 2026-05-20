@@ -54,7 +54,7 @@ KeenKeeper is a dedicated platform designed to help users maintain and nurture t
 * Integrated data visualization powered by Recharts.
 * Interactive charts that dynamically break down your social engagement patterns.
 
-### 🔔 Real-Time Notifications
+### 🔔 Real Time Notifications
 * Interactive alert banners integrated via React-Toastify.
 * Instant visual feedback for successful logs, additions, and updates.
 
