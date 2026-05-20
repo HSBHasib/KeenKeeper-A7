@@ -11,7 +11,7 @@ KeenKeeper is a dedicated platform designed to help users maintain and nurture t
 ## 🔗 Links
 
 * 🌐 **Live Site:** [View Live Site](https://vercel.com/hsbhasi)
-* 💻 **GitHub Repo:** [View Github Repo](https://github.com/HSBHasib/PH-ASSIGNMENT-07)
+* 💻 **GitHub Repo:** [View Github Repo](https://github.com/HSBHasib/KeenKeeper-A7)
 
 ---
 
@@ -64,10 +64,10 @@ KeenKeeper is a dedicated platform designed to help users maintain and nurture t
 
 ```bash
 # Clone the repository
-git clone [ https://github.com/HSBHasib/PH-ASSIGNMENT-07.git ]
+git clone [ https://github.com/HSBHasib/KeenKeeper-A7.git ]
 
 # Go into the project folder
-cd PH-ASSIGNMENT-07
+cd KeenKeeper-A7
 
 # Install dependencies
 npm install
