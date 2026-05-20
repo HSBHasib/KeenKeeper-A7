@@ -78,4 +78,4 @@ npm run dev
 
 ## Developer
 * Name: Hasibur Rahman
-* GitHub:** [Hasib](https://github.com/HSBHasib)
+* GitHub: [Hasib](https://github.com/HSBHasib)
