@@ -11,7 +11,7 @@ KeenKeeper is a dedicated platform designed to help users maintain and nurture t
 ## 🔗 Links
 
 * 🌐 **Live Site:** [View Live Site](https://vercel.com/hsbhasi)
-* 💻 **GitHub Client Repo:** [View Client Repo](https://github.com/HSBHasib/PH-ASSIGNMENT-07)
+* 💻 **GitHub Repo:** [View Github Repo](https://github.com/HSBHasib/PH-ASSIGNMENT-07)
 
 ---
 
