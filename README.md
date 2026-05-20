@@ -10,7 +10,7 @@ KeenKeeper is a dedicated platform designed to help users maintain and nurture t
 
 ## 🔗 Links
 
-* 🌐 **Live Site:** [View Live Site](https://vercel.com/hsbhasi)
+* 🌐 **Live Site:** [View Live Site](https://keenkeeper-five.vercel.app/)
 * 💻 **GitHub Repo:** [View Github Repo](https://github.com/HSBHasib/KeenKeeper-A7)
 
 ---
